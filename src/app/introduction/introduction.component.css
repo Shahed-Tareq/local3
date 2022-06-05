@@ -1,0 +1,26 @@
+.container{
+ 
+    padding: 95px;
+}
+.intro{
+
+    text-align: center;
+    padding: 25px;
+}
+.intro p{
+    text-align: justify;
+}
+.intro h1{
+font-size: 60px;
+margin-bottom: 52px;
+}
+@media (max-width:992px){
+    .intro h1{
+        font-size: 25px;
+    
+    }
+        .container{
+ 
+            padding: 35px;
+        }
+}

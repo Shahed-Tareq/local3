@@ -1,0 +1,18 @@
+.mat-toolbar{
+    padding:50px;
+        justify-content: center;
+        background-color: rgba(221, 201, 201, 0.548);
+        
+      }
+      a{
+        color:black;
+        padding-right:1.5rem;
+        font-size: 25px;
+      }
+      h6{
+        padding-right:10px;
+        text-align:left
+      }
+      a:hover{
+    color: rgba(12, 123, 143, 0.733); 
+      }

@@ -1,0 +1,26 @@
+.sec{
+    margin-bottom: 25px;
+    padding: 25px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.sec h4{
+    font-size: 25px;
+    color: red;
+    padding: 15px;
+}
+.sec p{
+    text-align: justify;
+}
+.container .title{
+    text-align: center;
+    margin: 25px auto;
+}
+.container{
+    
+    margin:45px auto;
+    padding:20px;
+}
+button{
+    text-align: center;
+    margin:15px auto;
+}
